@@ -1,0 +1,60 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments and local environment files
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Packaging and build output
+build/
+dist/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# Test, coverage, and type-check caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.agents/
+.aws/
+.codex/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Local logs, crash dumps, and temporary files
+*.log
+core
+core.*
+*.tmp
+*.bak
+
+# User screenshots and generated stack outputs (including test artifacts)
+screenshots/
+outputs/
+chatgpt-stack-*.png
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.bmp
+*.tif
+*.tiff

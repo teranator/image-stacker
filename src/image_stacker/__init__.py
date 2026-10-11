@@ -1,0 +1,1 @@
+"""Image Stacker application package."""

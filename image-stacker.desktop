@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Image Stacker
+Comment=Stack clipboard images vertically
+Exec=image-stacker
+Icon=applications-graphics
+Terminal=false
+Categories=Graphics;Utility;
+StartupNotify=true
